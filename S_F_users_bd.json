@@ -1,0 +1,34 @@
+{
+    "5191469996": {
+        "name": "Nikita",
+        "is_question": false,
+        "banned": false,
+        "user_id": 0,
+        "flag": 0,
+        "mes_id": 0
+    },
+    "686171972": {
+        "name": "Nikita",
+        "is_question": false,
+        "banned": false,
+        "user_id": "754513655",
+        "flag": 2,
+        "mes_id": 113
+    },
+    "754513655": {
+        "name": "Dbrnjh",
+        "is_question": false,
+        "banned": false,
+        "user_id": 0,
+        "flag": 0,
+        "mes_id": 0
+    },
+    "1457695564": {
+        "name": "Belous Roman",
+        "is_question": false,
+        "banned": false,
+        "user_id": 0,
+        "flag": 0,
+        "mes_id": 0
+    }
+}
